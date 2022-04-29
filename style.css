@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    margin: 1rem;
+}
+#title{
+    font-size: 75px;
+}
+#description{
+    font-size: 25pxpx;
+}
+
+
+.survey{
+    margin-top: 20px;
+    font-weight: 900;
+
+}
+#recommend{
+    margin-bottom: 10px;
+}
+
+textarea{
+    position: relative;
+    resize: none;
+    float:left ;
+}
+
+.suggestion{
+    font-weight: 900;
+}
+
+button{
+    width:5rem;
+    height: 2rem;
+    margin-top: 3rem;
+    margin-left: 0.5rem;
+    background-color: rgb(225, 218, 218);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+
+#name, #surname, #email{
+    width: 250px;
+    height: 30px;
+    font-size: 1rem;
+}
+#role{
+    width: 150px;
+    height: 30px;
+    font-size: 30px;
+}
+
+#feature{
+    width: 150px;
+    height: 30px;
+    font-size: 30px;
+}
